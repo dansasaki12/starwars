@@ -2,19 +2,19 @@
   "name": "starwars-express",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "completed.js",
   "dependencies": {
     "body-parser": "^1.15.0",
     "express": "^4.13.4"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node completed.js"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server1.js",
-    "watch": "nodemon server1.js"
+    "start": "node completed.js",
+    "watch": "nodemon completed.js"
   },
   "author": "",
   "license": "ISC"
